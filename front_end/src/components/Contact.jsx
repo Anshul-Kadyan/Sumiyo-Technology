@@ -27,7 +27,7 @@ export default function Contact() {
     }
 
     axios
-      .post("http://localhost:3000/", {
+      .post("http://sumiyo.in:3000/", {
         email: contact.email,
         subject: contact.subject,
         message: contact.message,
