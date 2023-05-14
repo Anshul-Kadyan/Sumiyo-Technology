@@ -12,7 +12,7 @@ export default function Hero() {
             <p className="font-patrick md:text-5xl text-4xl flex md:justify-start justify-center">
               Hello,
             </p>
-            <p className="font-exo md:text-6xl text-4xl">Sumiyo Technology</p>
+            <p className="font-exo md:text-6xl text-3xl">Sumiyo Technology</p>
             <p className="font-patrick md:text-5xl text-4xl flex md:justify-start justify-center">
               Welcomes You !
             </p>
@@ -49,7 +49,7 @@ export default function Hero() {
           </div>
         </div>
         {/* Left / Button Side */}
-        <div className=" md:w-[500px] w-[350px] h-auto  ">
+        <div className=" md:w-[500px] w-[300px] h-auto  ">
           <Lottie animationData={HeroPhoto} />
         </div>
       </div>

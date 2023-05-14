@@ -8,7 +8,7 @@ export default function About() {
         <div className="md:text-base text-sm font-light font-roboto">
           We are Glad for your Interest!
         </div>
-        <div className="font-bold font-patrick md:text-6xl text-3xl pb-4 ">
+        <div className="font-bold font-patrick md:text-6xl text-2xl pb-4 ">
           KNOW ABOUT SUMIYO
         </div>
         <div className="md:text-base text-sm font-light font-roboto max-w-2xl text-center">
@@ -20,7 +20,7 @@ export default function About() {
       <div className="md:px-48 px-4   md:pb-24 pb-10 h-full w-full font-roboto">
         <div className="flex md:flex-row flex-col-reverse md:justify-between items-center md:gap-4 gap-0 ">
           {/* Left / Bottom Side */}
-          <div className=" md:w-[500px] w-[350px] h-auto  ">
+          <div className=" md:w-[500px] w-[300px] h-auto  ">
             <Lottie animationData={AboutPhoto} />
           </div>
           {/* Right / Top Side */}

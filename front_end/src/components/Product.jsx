@@ -8,7 +8,7 @@ export default function Product() {
         <div className="md:text-base text-sm font-light font-roboto">
           Checkout the Our Products that we Offer !
         </div>
-        <div className="font-bold font-patrick md:text-6xl text-3xl pb-4 ">
+        <div className="font-bold font-patrick md:text-6xl text-2xl md:pb-4 pb-2 ">
           Sumiyo's Available Products
         </div>
         <div className="md:text-base text-sm font-light font-roboto max-w-2xl text-center">

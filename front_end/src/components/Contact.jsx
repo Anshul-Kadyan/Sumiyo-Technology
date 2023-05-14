@@ -48,7 +48,7 @@ export default function Contact() {
         <div className="md:text-base text-sm font-light font-roboto">
           Having Trouble in Somthing ?
         </div>
-        <div className="font-bold font-patrick md:text-6xl text-3xl pb-4 ">
+        <div className="font-bold font-patrick md:text-6xl text-2xl md:pb-4 pb-2">
           Contact Sumiyo Technology
         </div>
         <div className="md:text-base text-sm font-light font-roboto max-w-2xl text-center">
@@ -139,7 +139,7 @@ export default function Contact() {
               message. We'll get back to you as soon as possible.
             </p>
 
-            <div className=" md:w-[500px] w-[350px] h-auto ">
+            <div className=" md:w-[500px] w-[300px] h-auto ">
               <Lottie animationData={ContactPhoto} />
             </div>
           </div>

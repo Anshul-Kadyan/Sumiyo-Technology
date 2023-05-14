@@ -11,7 +11,7 @@ export default function FAQ() {
         <div className="md:text-base text-sm font-light font-roboto">
           How can we help You ?
         </div>
-        <div className="font-bold font-patrick md:text-6xl text-3xl pb-4 ">
+        <div className="font-bold font-patrick md:text-6xl text-2xl md:pb-4 pb-2">
           Freaquently Asked Question's
         </div>
         <div className="md:text-base text-sm font-light font-roboto max-w-2xl text-center">
