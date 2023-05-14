@@ -16,17 +16,19 @@ app.post("/", async (req, res) => {
 
   // Create a nodemailer transporter object
   let transporter = nodemailer.createTransport({
-    service: "gmail",
+    host: "smtp.hostinger.com",
+    port: 465,
+    secure: true, // true for 465, false for other ports
     auth: {
-      user: "",
-      pass: "",
+      user: "info@sumiyo.in",
+      pass: "SumiyoTechnology@2023",
     },
   });
 
   // Set up the email message
   let mailOptions = {
-    from: "",
-    to: "",
+    from: "info@sumiyo.in",
+    to: "info@sumiyo.in",
     subject: user_subject,
     text: user_message,
     html: `<div>

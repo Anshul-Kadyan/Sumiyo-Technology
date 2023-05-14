@@ -32,7 +32,7 @@ export default function Footer() {
                 <EmailIcon />
               </Link>
               <div>
-                <p>contact@sumiyo.com</p>
+                <p>info@sumiyo.com</p>
               </div>
             </div>
             <div className="flex gap-6 items-center">
