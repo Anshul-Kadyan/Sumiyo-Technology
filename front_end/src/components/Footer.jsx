@@ -71,7 +71,7 @@ export default function Footer() {
                   <br />
                   Beri (124201),
                   <br />
-                  Jhajjar (Hr.) - 123401
+                  (Hr.) - 123401
                 </a>
               </div>
             </div>
