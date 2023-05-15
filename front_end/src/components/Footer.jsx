@@ -51,7 +51,7 @@ export default function Footer() {
                   <br />
                   Sec-4, Rewari,
                   <br />
-                  Jhajjar (Hr.) - 123401
+                  (Hr.) - 123401
                 </a>
               </div>
             </div>
@@ -71,7 +71,7 @@ export default function Footer() {
                   <br />
                   Beri (124201),
                   <br />
-                  (Hr.) - 123401
+                  Jhajjar (Hr.) - 123401
                 </a>
               </div>
             </div>
